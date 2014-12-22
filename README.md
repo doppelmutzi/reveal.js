@@ -1,3 +1,7 @@
+# My starting point / fork of reveal.js
+
+This is a fork of the beautiful reveal.js project. It's just meant as a starting point with two example slides, some custom CSS and the fullscreen image feature in place.
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
